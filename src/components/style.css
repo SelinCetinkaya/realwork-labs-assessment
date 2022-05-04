@@ -1,0 +1,25 @@
+.city-lists {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 70px;
+}
+
+.card {
+  width: 30%;
+}
+
+.list-item {
+  display: flex;
+  flex-direction: row;
+}
+
+.warnings {
+  display: flex;
+  flex-direction: column;
+}
+
+.contents {
+  display: flex;
+  flex-direction: column;
+}
